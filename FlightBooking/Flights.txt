@@ -1,0 +1,37 @@
+828
+Copenhagen,Denmark
+0800
+1500
+On Time
+Not Booked
+627
+Athens,Greece
+1000
+1600
+Delayed
+Not Booked
+777
+Tokyo,Japan
+0700
+2100
+On Time
+Not Booked
+943
+Bergen,Norway
+1200
+1800
+Cancelled
+Not Booked
+425
+Timbuktu,Mali
+0500
+1700
+On Time
+Not Booked
+126
+Sydney, Australia
+1200
+1600
+Delayed
+Not booked
+
